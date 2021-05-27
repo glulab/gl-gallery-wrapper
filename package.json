@@ -1,0 +1,23 @@
+{
+  "name": "@glulab/gl-gallery-wrapper",
+  "version": "1.0.0",
+  "description": "GL Gallery Wrapper.",
+  "main": "js/gl-gallery-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glulab/gl-gallery-wrapper.git"
+  },
+  "author": "Lukasz Gaszyna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glulab/gl-gallery-wrapper/issues"
+  },
+  "homepage": "https://github.com/glulab/gl-gallery-wrapper#readme",
+  "dependencies": {
+    "jquery": ">=1.7.0",
+    "lightgallery": "1.2.21"
+  }
+}
